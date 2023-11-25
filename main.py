@@ -1,8 +1,6 @@
-from generate_phrase import generate_random_paragraph
-
-
 def main():
     import time
+    from generate_phrase import generate_random_paragraph
     from wpm_calculator import Calculate
 
     pg_generator = generate_random_paragraph
