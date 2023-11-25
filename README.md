@@ -1,4 +1,4 @@
-# wpm-calculator
+# **wpm-calculator**
 
 # As a computer science student, the ability to type fast or faster than average benefits us greatly
 # This project generates a phrase and the user must copy by typing the generated phrase
