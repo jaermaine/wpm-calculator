@@ -8,11 +8,11 @@ def info(): #Info Page
     new_window.geometry("650x350")
     new_window.resizable(False, False)
 
-    info_text = ("\nWe made this App/Project to calculate the speed of your Typing. Typing faster has a lot of beneficial to us.\n"
-                 "Here is the example:\n\n" 
+    info_text = ("\nWe made this App/Project to calculate the speed of your Typing. Typing faster has lots of benefits to us.\n"
+                 "\nHere is the example:\n\n" 
                  "1. Typing speed is crucial in the workplace because it directly impacts productivity and efficiency.\n\n"
-                 "2. A skilled typist is able to finis h a writing task within a specific"
-                 "length of time and is not\n hindered by their slower typing speed.\n\n"
+                 "2. A skilled typist is able to finish a writing task within a specific "
+                 "length of time and is not\nhindered by their slower typing speed.\n\n"
                  "3. Candidates who learn to type faster are more favourable to employers.\n\n"
                  "4. It guarantees that they can produce more text for the company (and in less time).\n\n"
                  "5. Makes it Easier to Take Notes\n\n"
