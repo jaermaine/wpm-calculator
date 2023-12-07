@@ -4,7 +4,7 @@ class Calculate:
         self.initial = initial_time
         self.rest = resting_time
         self.count = word_count
-        self.attempt = (resting_time - initial_time) / 60
+        self.attempt = round(resting_time - initial_time)
 
     def get_wpm(self):
-        return str(round(self.count / self.attempt, 2))
+        return round((self.count / 4.7) * 60 / self.attempt)
