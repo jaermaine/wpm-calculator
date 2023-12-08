@@ -5,6 +5,7 @@
 ##### 2. Domingcil, Jaermaine
 ##### 3. Romero, Lance
 
+___
 ###### As computer science students, the ability to type fast or faster than average benefits us greatly
 ###### This project generates a phrase and the user must copy by typing the generated phrase
 ###### The program will then calculate the Words per Minute (WPM)
