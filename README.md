@@ -9,6 +9,8 @@ ___
 ###### As computer science students, the ability to type fast or faster than average benefits us greatly
 ###### This project generates a phrase and the user must copy by typing the generated phrase
 ###### The program will then calculate the Words per Minute (WPM)
+###### The program aims to imitate real-world typing, therefore it generates sentences instead of phrases
+###### It also uses difficult words / uncommon words to further imitate the feel of real-world typing.
 
 ___
 # Benefits of typing faster
@@ -27,4 +29,10 @@ ___
 ###### 3. Tkinter for Python GUI
 
 ___
-# Formula used to calculate the WPM
+# Formulas used to calculate the WPM
+### WPM:
+### ( total_characters / 4.7 ) * ( 60 / time )
+___
+### Accuracy:
+### ( ( total_characters - total_errors ) / total characters ) * 100
+
